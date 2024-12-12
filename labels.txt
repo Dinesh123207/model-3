@@ -1,0 +1,6 @@
+0 fire disaster
+1 earthquake
+2 urban fire
+3 landslide
+4 drought
+5  non damage 
